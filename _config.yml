@@ -22,7 +22,8 @@ email: gsm07@qq.com
 phone: (86)188-2504-5825
 website: smguo07.github.io/online-cv #do not add http://
 
-
+plugins:
+  - jekyll-seo-tag
 
 # Tracker
 #analytics: UA-83979019-1
