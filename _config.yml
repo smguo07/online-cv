@@ -14,13 +14,12 @@ style: styles-5
 
 #Profile information
 name: Guo Suiming
-tagline: PhD, Information Engineering
+tagline: PhD, MSc, BEng
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: guosuiming@email.jnu.edu.cn
-phone: (86)188-2504-5825
-wechat: guosuiming001
+phone: (WeChat ID:) guosuiming001
 website: smguo07.github.io/online-cv #do not add http://
 
 plugins:
